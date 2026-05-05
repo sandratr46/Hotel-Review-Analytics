@@ -160,7 +160,7 @@ The dashboard enables users to identify key satisfaction drivers, compare hotel 
 
 ## Key Insights
 
-## After examining the data set by using EDA and Visualization, the following key insights are determined
+**After examining the data set by using EDA and Visualization, the following key insights are determined**
 
 * Cleanliness and facilities show the strongest relationship with overall ratings,suggesting it is a key factor influencing customer satisfaction.
 * Facilities demonstrate the largest performance gap and represent the primary area for improvement
